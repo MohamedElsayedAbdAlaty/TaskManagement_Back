@@ -1,0 +1,12 @@
+D:\NuumexWork\Task_Management\Core\bin\Debug\net8.0\Core.deps.json
+D:\NuumexWork\Task_Management\Core\bin\Debug\net8.0\Core.dll
+D:\NuumexWork\Task_Management\Core\bin\Debug\net8.0\Core.pdb
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.dll
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\refint\Core.dll
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.pdb
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\ref\Core.dll
+D:\NuumexWork\Task_Management\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
